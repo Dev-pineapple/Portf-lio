@@ -1,0 +1,28 @@
+.png {
+border-radius: 100px 100px 100px 100px;
+border: 0.09em solid white ;
+}
+
+h2 {
+font-size: 30px;
+}
+
+body {  
+font-size: 30px;
+background-color: slateblue;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+text-align: center;
+}
+
+a {
+text-decoration: none;
+background-color: white;
+font-size: 30px;
+border-radius: 10px;
+padding: 10px;
+display: block;
+text-align: center;
+margin: 10px;
+color: slateblue;
+}
